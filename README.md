@@ -1,11 +1,7 @@
 # Accc
 
-Windows account record manager. Download `Accc.exe` from the Releases page and run it.
+Windows account-record application. Download the latest Windows x64 executable from GitHub Releases.
 
-## Updates
+The application checks this public repository for newer releases and can download and replace its executable.
 
-The app checks this repository's GitHub Releases for newer versions at startup. Release assets are Windows x64 builds.
-
-## Privacy
-
-This repository distributes the application binary only. Account data is stored locally by the application and is not included here.
+Account data stays local in `accounts.dat`; personal data is not included in this repository.
